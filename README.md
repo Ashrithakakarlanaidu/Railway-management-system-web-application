@@ -2,7 +2,7 @@
 
 RAILWAYS RESERVATION SCENARIO
 
-##project report analysis on railway reservation system with data visualisation
+Project report analysis on railway reservation system with data visualisation
 
 Train has a TC ,Train is identified by train number train name train type, train class, this is
 identified by TC name TC ID TC address and TC age. Passengers travel in train Passengers are identified by passenger ID passenger number
